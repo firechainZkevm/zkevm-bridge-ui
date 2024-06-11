@@ -1,14 +1,14 @@
 # zkEVM Bridge UI
 
 The zkEVM Bridge UI provides a simple user interface to bridge ETH and your favorite ERC-20 tokens
-from Ethereum to the Polygon zkEVM and back.
+from Ethereum to the Firechain zkEVM and back.
 
 ## Development
 
 Clone the repo:
 
 ```sh
-git clone git@github.com:0xPolygonHermez/zkevm-bridge-ui.git
+git clone git@github.com:firechainZkevm/zkevm-bridge-ui.git
 ```
 
 Move into the project directory:

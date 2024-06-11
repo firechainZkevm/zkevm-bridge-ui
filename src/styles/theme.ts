@@ -18,7 +18,7 @@ export const theme = {
     },
     primary: {
       dark: "#5a1cc3",
-      main: "#7b3fe4",
+      main: "#920000",
     },
     success: {
       light: "rgba(0,255,0,0.1)",
