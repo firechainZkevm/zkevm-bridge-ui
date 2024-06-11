@@ -17,7 +17,7 @@ export const theme = {
       veryDark: "#363740",
     },
     primary: {
-      dark: "#5a1cc3",
+      dark: "#700000",
       main: "#920000",
     },
     success: {
